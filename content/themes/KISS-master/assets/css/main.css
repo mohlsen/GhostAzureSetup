@@ -326,7 +326,7 @@ a {
 }
 
 a:hover {
-  color: #6565f4;
+  color: #df691a;
 }
 
 .sidebar {
@@ -337,7 +337,7 @@ a:hover {
   text-align: center;
   color: #fff;
   font-size: 0.8em;
-  background: #303538 no-repeat center center;
+  background: #2b3e50 no-repeat center center;
   background-size: cover;
   background-position: 20%;
   -webkit-transform: translateZ(0);
@@ -348,7 +348,7 @@ a:hover {
 }
 
 .sidebar a:hover {
-  color: #6565f4;
+  color: #df691a;
 }
 
 .sidebar .logo {
@@ -435,8 +435,8 @@ a:hover {
 }
 
 .main-nav ul li a:hover {
-    border-color: #6565f4;
-    color: #6565f4;
+    border-color: #df691a;
+    color: #df691a;
     transition: 0.2s all;
 }
 
@@ -537,7 +537,7 @@ a:hover {
 }
 
 .pagination a {
-  color: #6565f4;
+  color: #df691a;
 }
 
 .site-footer {
@@ -644,7 +644,7 @@ a:hover {
     text-align: center;
     color: #fff;
     font-size: 15px;
-    background: #303538 no-repeat center center;
+    background: #2b3e50 no-repeat center center;
     background-size: cover;
     background-position: 20%;
     -webkit-transform: translateZ(0);
